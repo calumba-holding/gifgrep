@@ -1,5 +1,7 @@
 # Changelog
 
+## 0.4.1 - Unreleased
+
 ## 0.4.0 - 2026-09-07
 
 ### Highlights
